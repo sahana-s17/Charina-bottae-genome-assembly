@@ -38,11 +38,10 @@ Project directory:
 
 Sequencing data were identified through the NCBI BioProject and Sequence Read Archive (SRA).
 
-Three SRA runs are used for this project, including two paired-end SRA runs for Dovetail/omni-c data. 
+Three SRA runs are used for this project, including two paired-end SRA runs for Dovetail/omni-c data.
 
 | SRA run | Sequencing data | Download size | Bases | Purpose |
 |---|---|---:|---:|---|
-
 | SRR19599927 | Dovetail Omni-C | 5.1 GB | 15.4 Gb | Genome scaffolding |
 | SRR19599928 | Dovetail Omni-C | 7.3 GB | 21.9 Gb | Genome scaffolding |
 | SRR19599929 | PacBio HiFi | 35 GB | 54.2 Gb | De novo genome assembly |
