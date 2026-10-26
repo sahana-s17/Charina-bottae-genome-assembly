@@ -144,7 +144,7 @@ Charina_bottae/
 │   ├── SRR19599929.fastq.gz
 │   ├── Charina_combined_R1.fastq.gz
 │   └── Charina_combined_R2.fastq.gz
-└── readme.txt
+└── README.md
 ```
 ---
 
