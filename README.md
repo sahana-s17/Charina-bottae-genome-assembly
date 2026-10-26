@@ -33,7 +33,7 @@ Project directory:
 **BioProject:**  [PRJNA824832](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA824832)  
 **Biosample:** SAMN26367999
 
------------ 
+---
 ## Sequencing data
 
 Sequencing data were identified through the NCBI BioProject and Sequence Read Archive (SRA).
